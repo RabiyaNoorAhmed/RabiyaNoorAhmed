@@ -1,7 +1,7 @@
 ![logo](https://github.com/RabiyaNoorAhmed/RabiyaNoorAhmed/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rabiya Noor Ahmed</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY4aDJidHpnMzh2bnprdGR3dmZ1b3k2ZjlrdXJqazVnZHJsdnhreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="350px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiyanoorahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rabiyanoorahmed" /> </p>
 
 - 😎 Ask me about **HTML,CSS,Javascript,Node.js etc...**
